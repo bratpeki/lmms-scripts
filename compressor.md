@@ -118,9 +118,17 @@ Those are the two bias modes in the LMMS Compressor, and the input and output ba
 
 ## Auto Attack, Auto Release
 
+Auto Attack and Auto Release enable automatic detection of the Attack and Release values based on the input signal.
+
 ## Compressor vs Inf. Ratio
+
+Toggling "Inf. Ratio" sets ratio to infinity, making the compressor act much like a limiter after the attack bit.
 
 ## RMS vs Peak Compression
 
+Makes the compressor use RMS or signal peak?
+
 ## Tilt Factor
+
+What does this do?
 
